@@ -1,0 +1,10 @@
+# Ignore MATLAB data files
+*.mat
+models/
+
+# Ignore raw audio datasets
+dataset/
+
+# OS generated files
+.DS_Store
+Thumbs.db
